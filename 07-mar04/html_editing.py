@@ -94,7 +94,7 @@ art_2_card = """
 art_3_card = """
 <div class="card bg-base-100 w-96 shadow-xl m-5">
   <figure>
-    <img src="<img src="07-mar04/art_3.jpg" alt="Artwork">" alt="Artwork">
+    <img src="art_3.jpg" alt="Artwork">
   </figure>
 
   <div class="card-body">
