@@ -58,7 +58,7 @@ background = """
 art_1_card = """
 <div class="card bg-base-100 w-96 shadow-xl m-5">
   <figure>
-    <img src="art_1.jpg" alt="Artwork">
+    <img src="07-mar04/art_1.jpg" alt="Artwork">
   </figure>
 
   <div class="card-body">
@@ -76,7 +76,7 @@ art_1_card = """
 art_2_card = """
 <div class="card bg-base-100 w-96 shadow-xl m-5">
   <figure>
-    <img src="art_2.jpg" alt="Artwork">
+    <img src="07-mar04/art_2.jpg" alt="Artwork">
   </figure>
 
   <div class="card-body">
@@ -94,7 +94,7 @@ art_2_card = """
 art_3_card = """
 <div class="card bg-base-100 w-96 shadow-xl m-5">
   <figure>
-    <img src="art_3.jpg" alt="Artwork">
+    <img src="<img src="07-mar04/art_3.jpg" alt="Artwork">" alt="Artwork">
   </figure>
 
   <div class="card-body">
